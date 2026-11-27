@@ -1,0 +1,13 @@
+*
+!.gitignore
+!README.md
+!requirements.txt
+!ЛР8_Лопатін_12.ipynb
+!lr8_результат_12.json
+!lr8_маршрут_12.html
+!lr5_результати.json
+!osm_хмельницький/
+osm_хмельницький/*
+!osm_хмельницький/road_nodes.parquet
+!osm_хмельницький/road_edges.parquet
+!.gitattributes
